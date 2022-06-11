@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR &amp; Barcode Detector</string>
+    <string name="scanner_error">Scanner error: %s</string>
+</resources>
